@@ -54,3 +54,5 @@
 ;; they are implemented.
 
 (setq projectile-project-search-path '(("~/Code/" . 2)))
+
+(add-to-list 'default-frame-alist '(fullscreen . maximized))
